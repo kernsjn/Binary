@@ -1,0 +1,11 @@
+/Users/nkerns/Binary/bin/Debug/netcoreapp3.1/Binary
+/Users/nkerns/Binary/bin/Debug/netcoreapp3.1/Binary.deps.json
+/Users/nkerns/Binary/bin/Debug/netcoreapp3.1/Binary.runtimeconfig.json
+/Users/nkerns/Binary/bin/Debug/netcoreapp3.1/Binary.runtimeconfig.dev.json
+/Users/nkerns/Binary/bin/Debug/netcoreapp3.1/Binary.dll
+/Users/nkerns/Binary/bin/Debug/netcoreapp3.1/Binary.pdb
+/Users/nkerns/Binary/obj/Debug/netcoreapp3.1/Binary.csprojAssemblyReference.cache
+/Users/nkerns/Binary/obj/Debug/netcoreapp3.1/Binary.AssemblyInfoInputs.cache
+/Users/nkerns/Binary/obj/Debug/netcoreapp3.1/Binary.AssemblyInfo.cs
+/Users/nkerns/Binary/obj/Debug/netcoreapp3.1/Binary.dll
+/Users/nkerns/Binary/obj/Debug/netcoreapp3.1/Binary.pdb
